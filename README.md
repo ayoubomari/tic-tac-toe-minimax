@@ -18,5 +18,13 @@ circa 1866, in the meaning defined above.
 
 
 ## History and Etymology for tic-tac-toe
+<p style="    color: #265667;
+    font-family: Open Sans,Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: .3px;">History and Etymology for tic-tac-toe</p>
 
 tic-tac-toe, former game in which players with eyes shut brought a pencil down on a slate marked with numbers and scored the number hit.
