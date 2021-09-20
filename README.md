@@ -52,7 +52,7 @@ But the random method is an easy method to beat because the computer mark slots 
 In 1997, a computer named “Deep Blue” defeated reigning world chess champion Garry Kasparov — a defining moment in the history of AI theory.
 
 <p align="center">
-	<img src="preview/deepBlue.jpg" style="width: 220px;"></img>
+	<img src="preview/deepBlue.jpg" style="width: 100%;"></img>
 </p>
 
 The expansive timeframe over which the chess computer problem has been pondered lends credence to the complexity of the solution. Textbooks have been written on the computer chess problem alone, and many strategies varying in complexity have been put to the test. we will focus on one general decision-making strategy used by computers across a variety of strategic games, including chess, checkers, mancala, tic-tac-toe, you name it.
