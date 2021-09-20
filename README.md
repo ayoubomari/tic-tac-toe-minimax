@@ -61,4 +61,7 @@ This general strategy is encased in a widely-used algorithm in gaming theory, ca
 
 ### How many prospect on tic-tac-toe
 
-We have three defferent options for each square (across , odd, blank) and we have nine squares 
+We have three defferent options for each square (across , odd, blank) and we have nine squares
+<p align="center">
+	<img src="preview/deepBlue.jpg" style="width: 100px;"></img>
+</p>
