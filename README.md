@@ -63,5 +63,5 @@ This general strategy is encased in a widely-used algorithm in gaming theory, ca
 
 We have three defferent options for each square (across , odd, blank) and we have nine squares
 <p align="center">
-	<img src="preview/deepBlue.jpg" style="width: 100px;"></img>
+	<img src="preview/prospects.png" style="width: 100px;"></img>
 </p>
