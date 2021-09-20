@@ -28,7 +28,8 @@ they are lot of way to play tic-tac-toe with the computer one of them is the ran
 
 ### Example of the random method on our code :
 
-The function __getListofChooses__ is a function that return all availables slot that the computer can choose and mark one from It.
+> The function __getListofChooses__ is a function that return all availables slot that the computer can choose and mark one from It.
+
 And after that the computer choose randomly one of the slot that stored in the class variable __listChooses__ by the function rand(), "rand() % (max - min + 1) + min".
 
 
