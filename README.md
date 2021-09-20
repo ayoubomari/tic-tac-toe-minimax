@@ -24,7 +24,7 @@ tic-tac-toe, former game in which players with eyes shut brought a pencil down o
 
 ## Play tic-tac-toe with computer by using the random method
 
-they are lot of way to play tic-tac-toe with the computer one of them is the random method, when It's the turn of the computer the computer choose form availables slot one randomly
+they are lot of way to play tic-tac-toe with the computer one of them is the random method, when It's the turn of the computer the computer choose from available slots one slot randomly.
 
 ### Example of the random method on our code :
 
@@ -43,3 +43,21 @@ int computerRandomSlot(char **board, std::vector<int> listChooses){
 	return  ( listChooses.at( (rand() % ( (listChooses.size() - 1) + 1)) ) );
 }
 ```
+
+But the random method is an easy method to beat because the computer mark slots just randomly and without any analysing of positions of the game.
+
+
+## Play tic-tac-toe with computer by using the minimax algorithm
+
+In 1997, a computer named “Deep Blue” defeated reigning world chess champion Garry Kasparov — a defining moment in the history of AI theory.
+
+<p align="center">
+	<img src="preview/deepBlue.png" style="width: 220px;"></img>
+</p>
+
+The expansive timeframe over which the chess computer problem has been pondered lends credence to the complexity of the solution. Textbooks have been written on the computer chess problem alone, and many strategies varying in complexity have been put to the test. we will focus on one general decision-making strategy used by computers across a variety of strategic games, including chess, checkers, mancala, tic-tac-toe, you name it.
+
+This general strategy is encased in a widely-used algorithm in gaming theory, called the Minimax Algorithm. we will take a brief look at how a computer decides its next move using the Minimax Algorithm, but first we need to define a few things:
+
+### How many prospect on tic-tac-toe
+
