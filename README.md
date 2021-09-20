@@ -95,4 +95,4 @@ And when the tree would completed the computer will decide which slot is the bes
 	<img src="preview/utility2.png" style="width: 100%;"></img>
 </p>
 
-And the computer will repeat this process always in his turn.
+And the computer will repeat this process always in his turn. You can see all code on [main.cpp](https://github.com/ayoubomari/tic-tac-toe-minimax/blob/main/source/main.cpp) file.
