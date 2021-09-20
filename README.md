@@ -26,7 +26,7 @@ tic-tac-toe, former game in which players with eyes shut brought a pencil down o
 
 they are lot of way to play tic-tac-toe with the computer one of them is the random method, when It's the turn of the computer the computer choose form availables slot one randomly
 
-* Example of the random method on our code :
+### Example of the random method on our code :
 
 The function __getListofChooses__ is a function that return all availables slot that the computer can choose and mark one from It.
 And after that the computer choose randomly one of the slot that stored in the class variable __listChooses__ by the function rand(), "rand() % (max - min + 1) + min".
