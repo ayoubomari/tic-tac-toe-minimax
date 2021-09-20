@@ -78,7 +78,12 @@ Soo the computer try all possible move for give us which slot is the best to mar
 Utility function is a recucive function that run for each possible game and finaly give us a tree of all utilities that the computer need to decide whitch slot is the porfect one.
 For each utilites function we need to know to variables __flag__ and __depth__.
 
-> If it's the turn of the computer the flag will be equal to 1.\nand if it's not the flag will be equal to -1.
+> If it's the turn of the computer the flag will be equal to 1.
+> and if it's not the flag will be equal to -1.
+
+
+> if some one win the depth  will be equal the number of slots empty on the board + 1.
+> and if no one win yet the depth will be qual to zero.
 
 <p align="center">
 	<img src="preview/utility1.png" style="width: 100%;"></img>
