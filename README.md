@@ -3,5 +3,8 @@ tic-tac-toe-minimax is a c++ console application for teaching the computer how t
 
 
 <p align="center">
-	<img src="preview/tictactoe.png" style=" width: 100px;"></img>
+	<img src="preview/tictactoe.png" style="max-width: 220px;"></img>
 </p>
+
+
+## Introduction
