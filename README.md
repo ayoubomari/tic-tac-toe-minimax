@@ -65,3 +65,16 @@ We have three defferent options for each square (across , odd, blank) and we hav
 <p align="center">
 	<img src="preview/prospects.png" style="width: 200px;"></img>
 </p>
+Now we know that any tic-tac-toe game has a limit number of prospects.
+
+### Explain the minimax algorithm
+
+Mini-max algorithm is a recursive or backtracking algorithm which is used in decision-making and game theory. It provides an optimal move for the player assuming that opponent is also playing optimally.
+
+Soo the computer try all possible move for give us which slot is the best to mark from the utility function.
+
+#### Example:
+
+<p align="center">
+	<img src="preview/utility1.png" style="width: 100%;"></img>
+</p>
