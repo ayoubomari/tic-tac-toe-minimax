@@ -88,3 +88,11 @@ For each utilites function we need to know to variables __flag__ and __depth__.
 <p align="center">
 	<img src="preview/utility1.png" style="width: 100%;"></img>
 </p>
+
+And when the tree would completed the computer will decide which slot is the best from comparing all utilities of each node on the tree and choose the slot that has the big small utility (maximize the min), in our example the computer will choose the middle node, beacause three is the small utility on this node and it's bigger than all other utilities of other nodes.
+
+<p align="center">
+	<img src="preview/utility2.png" style="width: 100%;"></img>
+</p>
+
+And the computer will repeat this process always in his turn.
