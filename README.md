@@ -1,2 +1,7 @@
 # tic-tac-toe-minimax
-tic-tac-toe is a c++ console application to teach computer to play tic tac toe by a smart way using minimax algorithm.
+tic-tac-toe-minimax is a c++ console application for teaching the computer who to play tic-tac-toe using minimax AI algorithm.
+
+
+<p align="center">
+	<img src="preview/tictactoe.png"></img>
+</p>
