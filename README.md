@@ -73,7 +73,7 @@ Mini-max algorithm is a recursive or backtracking algorithm which is used in dec
 
 Soo the computer try all possible move for give us which slot is the best to mark from the utility function.
 
-#### Example:
+#### how utility function work:
 
 <p align="center">
 	<img src="preview/utility1.png" style="width: 100%;"></img>
