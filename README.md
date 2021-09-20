@@ -2,6 +2,6 @@
 tic-tac-toe-minimax is a c++ console application for teaching the computer how to play tic-tac-toe using minimax AI algorithm.
 
 
-<p style="display: flex; flex-flow: row nowrap; align-items: center; justify-content: center;">
+<p align="center">
 	<img src="preview/tictactoe.png" style=" width: 100px;"></img>
 </p>
