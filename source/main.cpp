@@ -513,7 +513,7 @@ int main(int argc, char *argv[])
 
 
 
-    //wait the user to Enter the key "Enter" to finish the programe
+    //wait the user to Enter any key to finish the programe
     std::string finish;
     std::cout << "\n\n\nEnter any key to continue..." << std::endl;
     std::cin >> finish;
